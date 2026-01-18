@@ -1,0 +1,12 @@
+
+path: /home/liu/work/datasets/HRSC
+train: train/images 
+val: val/images  
+
+
+# Classes
+nc: 1  # number of classes
+
+names: ['ship']
+
+

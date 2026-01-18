@@ -1,6 +1,6 @@
 # 9DPose1.0
 9DPose is a real-time object detection and recognition model that outputs the 3D position, orientation, and physical dimensions (length, width, and height) of targets relative to the sensor. The model provides real-time 9-dimensional information for multiple targets simultaneously. Compared to conventional high-precision object detection models, 9DPose additionally estimates the target’s 3-axis orientation, physical size, spatial distance, and direction.
-9DPose supports monocular vision-based real-time 3D object detection and recognition—requiring only a standard camera—making it suitable for aerial and ground target reconnaissance, identification, and measurement.
+9DPose supports monocular vision-based real-time 3D object detection and recognition, making it suitable for aerial and ground target reconnaissance, identification, and measurement.
 This 9DPose implementation incorporates several novel technologies, including quaternion-based pose regression, Rd-Dz virtual coordinate system transformation, and PKAttention. It is the first to achieve full three-degree-of-freedom (3-DoF) pose estimation for objects. Since it operates in a monocular, pure-vision mode without requiring specialized depth or ranging sensors, this technology is highly conducive to rapid deployment and widespread adoption.
 Thank you for your interest!
 
@@ -14,7 +14,12 @@ Thank you for your interest!
 
 
 ### Inference Visualization
-Below is a video demonstration of the model inference on the COCO 2017 dataset:
+Below is a video demonstration of the model inference on the  Plane9D and KITTI dataset:
+<p align="center">
+  <img src = "./demos/videos/9DPose.gif" width="80%">
+  <img src = "./demos/videos/plane9D.gif" width="80%">
+  <img src = "./demos/videos/kitti-yolo2.gif" width="80%">
+</p>
 <video width="640" height="360" controls>
   <source src="https://liujin1975060601.github.io/9dPose1.0/demos/videos/plane9D.mp4" type="video/mp4">
 点击链接播放演示视频，请<a href="https://liujin1975060601.github.io/9dPose1.0/demos/videos/plane9D.mp4">点击这里播放视频</a>。

@@ -5,7 +5,7 @@ This 9DPose implementation incorporates several novel technologies, including qu
 Thank you for your interest!
 
 9DPose Object Detection Demos
-![Image description](demos/coco2017/000000013729.jpg)
+![Image description](demos/nuScene/n008-2018-08-01-15-16-36-0400__CAM_BACK__1533151611437558_visual_9D.jpg)
 ![Image description](demos/coco2017/000000014226.jpg)
 ![Image description](demos/dota1.5/P0007_2_0.jpg)
 ![Image description](demos/dota1.5/P0128_8_0.jpg)

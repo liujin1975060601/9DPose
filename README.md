@@ -12,6 +12,22 @@ Thank you for your interest!
 ![Image description](demos/dota1.5-10terms/patches_P0000_84_0.jpg)
 ![Image description](demos/dota1.5-10terms/patches_P1067_1_0.jpg)
 
+9DPose Object Detection Demos
+<!-- 一行显示2张，每张宽度350px，间距更美观 -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="nuScene/n008-2018-08-01-15-16-36-0400__CAM_BACK__1533151611437558_visual_9D.jpg" width="350">
+  <img src="demos/coco2017/000000014226.jpg" width="350">
+  <img src="demos/dota1.5/P0007_2_0.jpg" width="350">
+  <img src="demos/dota1.5/P0128_8_0.jpg" width="350">
+  <img src="demos/dota1.5-10terms/patches_P0000_84_0.jpg" width="350">
+  <img src="demos/dota1.5-10terms/patches_P1067_1_0.jpg" width="350">
+</div>
+
+
+
+
+
+
 
 ### Inference Visualization
 Below is a video demonstration of the model inference on the  Plane9D and KITTI dataset:

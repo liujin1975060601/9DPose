@@ -4,23 +4,14 @@
 This 9DPose implementation incorporates several novel technologies, including quaternion-based pose regression, Rd-Dz virtual coordinate system transformation, and PKAttention. It is the first to achieve full three-degree-of-freedom (3-DoF) pose estimation for objects. Since it operates in a monocular, pure-vision mode without requiring specialized depth or ranging sensors, this technology is highly conducive to rapid deployment and widespread adoption.
 Thank you for your interest!
 
-9DPose Object Detection Demos
-![Image description](nuScene/n008-2018-08-01-15-16-36-0400__CAM_BACK__1533151611437558_visual_9D.jpg)
-![Image description](demos/coco2017/000000014226.jpg)
-![Image description](demos/dota1.5/P0007_2_0.jpg)
-![Image description](demos/dota1.5/P0128_8_0.jpg)
-![Image description](demos/dota1.5-10terms/patches_P0000_84_0.jpg)
-![Image description](demos/dota1.5-10terms/patches_P1067_1_0.jpg)
+
 
 9DPose Object Detection Demos
-<!-- 一行显示2张，每张宽度350px，间距更美观 -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="nuScene/n008-2018-08-01-15-16-36-0400__CAM_BACK__1533151611437558_visual_9D.jpg" width="350">
-  <img src="demos/coco2017/000000014226.jpg" width="350">
-  <img src="demos/dota1.5/P0007_2_0.jpg" width="350">
-  <img src="demos/dota1.5/P0128_8_0.jpg" width="350">
-  <img src="demos/dota1.5-10terms/patches_P0000_84_0.jpg" width="350">
-  <img src="demos/dota1.5-10terms/patches_P1067_1_0.jpg" width="350">
+  <img src="nuScene/n008-2018-08-01-15-16-36-0400__CAM_FRONT_LEFT__1533151603504799_visual_9D.jpg" width="350">
+  <img src="nuScene/n008-2018-08-27-11-48-51-0400__CAM_BACK__1535385094537558_visual_9D.jpg" width="350">
+  
 </div>
 
 
